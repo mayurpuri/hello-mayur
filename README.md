@@ -1,6 +1,4 @@
 # hello-mayur
 This is a test repository
 
-#### First step towards learning Git
-
-#### second step
+We are all set to do furthur changes
